@@ -1,0 +1,7 @@
+@inproceedings{REPO071,
+    author = "{Van Gansbeke}, Wouter and Vandenhende, Simon and Georgoulis, Stamatios and Proesmans, Marc and {Van Gool}, Luc",
+    booktitle = "Proceedings of ECCV 2020",
+    pages = "268--285",
+    title = "{SCAN: Learning to Classify Images Without Labels}",
+    year = "2020"
+}
